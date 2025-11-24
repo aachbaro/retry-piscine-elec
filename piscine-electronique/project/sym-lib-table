@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "piscine-lib")(type "KiCad")(uri "C:/Users/adama/Documents/roadToDev/piscine-electronique/symbols/piscine-lib.kicad_sym")(options "")(descr ""))
+)
