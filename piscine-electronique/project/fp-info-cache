@@ -1,4 +1,4 @@
-26779667627211623
+26776140201576150
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106365,13 +106365,6 @@ Varistor VF
 2
 2
 piscine-electronique-fp
-ATmega328_P
-
-
-0
-28
-28
-piscine-electronique-fp
 C_0603
 
 
@@ -106420,13 +106413,6 @@ TQFP-32_7x7
 0
 32
 32
-piscine-electronique-fp
-Untitled_1
-
-
-0
-28
-28
 piscine-electronique-fp
 crystal_SMD
 
